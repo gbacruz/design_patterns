@@ -1,0 +1,20 @@
+{
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ],
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.banditEnabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pycodestylePath": "pycodestyle",
+    "python.linting.flake8Path": "pyflakes",
+    "python.languageServer": "Pylance",
+    "cSpell.words": [
+        "heapify",
+        "heapq"
+    ]
+}
