@@ -1,5 +1,5 @@
 import abc
-from typing import Dict, List, Optional, TypeVar, Union
+from typing import Dict, Optional, TypeVar, Union
 
 HTMLITEM = TypeVar("HTMLITEM", bound=Union["Element", str])
 

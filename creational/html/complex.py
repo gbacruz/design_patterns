@@ -1,5 +1,4 @@
 from .element import Element, HTMLITEM
-from .simple import Simple
 
 
 class Complex(Element):
